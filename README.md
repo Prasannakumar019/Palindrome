@@ -1,5 +1,5 @@
 ## EX NO:02
-## DATE:7.4.22
+## DATE:6.4.22
 # <p align="center"> Palindrome
 
 
