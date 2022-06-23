@@ -1,4 +1,6 @@
-# Palindrome
+## EX NO:02
+## DATE:7.4.22
+# <p align="center"> Palindrome
 
 
 ## Aim:
@@ -45,6 +47,7 @@ namespace palindrome
 }
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/75235128/163684681-2371f78d-fb65-4251-a8f0-8c852ccb0036.png)
+![image](https://user-images.githubusercontent.com/75235090/175272927-3dd23b91-e916-443b-9366-1df6d491b5a4.png)
+
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
